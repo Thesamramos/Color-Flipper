@@ -92,6 +92,11 @@ main{
     a:hover{
         color: black;
     }
+
+    .container h2{
+        width: 350px;
+        font-size: 1.9rem;
+    }
 }
 
 @media  screen and (min-width: 768px) and (max-width: 1023px) {
